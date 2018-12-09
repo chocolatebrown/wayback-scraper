@@ -1,7 +1,8 @@
-# wayback_scraper
+# Wayback-Scraper
 Scraping urls from archive.org (Wayback Machine Snapshots)
 
-#Command-Line Interface
+# Command-Line Interface
+
 The usage information can be printed by running wayback-scraper -h.
 
     
